@@ -1,0 +1,16 @@
+genecp==I
+
+# genecp text below
+6-311G(d)
+****
+I     0
+LANL2DZ
+****
+
+I 0
+LANL2DZ
+
+$nbo bndidx $end
+
+
+
