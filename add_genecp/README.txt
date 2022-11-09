@@ -7,4 +7,5 @@ To add gen or genecp text on input COM gaussian files see .txt files for example
 	(basis set)
 	(gen/genecp text here)
 
-2. Run command: python add_genecp.py *.com --txt (genecp_filename).txt 
+2. Run command: 
+`python add_genecp.py *.com --txt (genecp_filename).txt` 
